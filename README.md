@@ -92,6 +92,13 @@ void clockwise(int speed)
 
 ![image](https://user-images.githubusercontent.com/114234865/203043647-4c3e1b12-95b3-4edc-90a9-65121825243b.png)
 
+![image](https://user-images.githubusercontent.com/114234865/203047284-52bad2b0-1faf-4878-ac54-f5b73785c537.png)
+
+![image](https://user-images.githubusercontent.com/114234865/203047386-35d509a4-f1d3-4e34-9223-e8ca783acb2f.png)
+
+![image](https://user-images.githubusercontent.com/114234865/203047430-024dd93d-36ec-41aa-9196-0bed01c568ab.png)
 
 ### RESULTS AND DISCUSSION 
+
+![image](https://user-images.githubusercontent.com/114234865/203047582-1a7c8fac-dda4-4862-a9d5-4dc535925cba.png)
 
